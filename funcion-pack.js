@@ -3,7 +3,7 @@ var slider = document.getElementsByClassName('slider')
 var backWindow = document.getElementsByClassName('picture-viewer')
 var bigWindow = document.getElementsByClassName('picture')
 var posx = 0
-var images = ['escaleras', 'parrillas', 'estanterias', 'montacargas', 'portones', 'tinglados']
+var images = ['aguac', 'barranquero3', 'aguacapaisaje', 'barranqpeq', 'gavilan', 'barranquero2']
 var stackImg = 0
 
 
