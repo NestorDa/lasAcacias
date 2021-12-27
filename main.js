@@ -9,7 +9,7 @@ var     rightArr = document.getElementById('arrow--right')
 
 
 var numeroItem = 0
-var images = ['escaleras', 'parrillas', 'estanterias', 'montacargas', 'portones', 'tinglados']
+var images = ['aguac', 'barranquero3', 'aguacapaisaje', 'barranqpeq', 'gavilan', 'barranquero2']
 var stackImg = 0
 
 
